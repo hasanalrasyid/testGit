@@ -12,3 +12,9 @@
   git status
 
   git commit -m "komentar commit"
+
+  git log
+
+# Penggunaan intermediate
+
+
